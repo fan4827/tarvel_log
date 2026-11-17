@@ -1,0 +1,152 @@
+{
+  "slug": "tokyo-7-days",
+  "title": "東京7日遊",
+  "city": "東京",
+  "country": "日本",
+  "isExample": true,
+  "days": [
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "淺草寺、仲見世通",
+          "note": "參拜、逛商店街。"
+        },
+        {
+          "period": "下午",
+          "place": "東京晴空塔周邊",
+          "note": "逛晴空塔周邊商場。"
+        },
+        {
+          "period": "晚上",
+          "place": "淺草周邊",
+          "note": "吃晚餐。"
+        }
+      ]
+    },
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "上野公園",
+          "note": "逛公園。"
+        },
+        {
+          "period": "下午",
+          "place": "阿美橫丁",
+          "note": "逛街、吃東西。"
+        },
+        {
+          "period": "晚上",
+          "place": "秋葉原",
+          "note": "逛電器、動漫商店。"
+        }
+      ]
+    },
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "明治神宮",
+          "note": "參拜、逛境內。"
+        },
+        {
+          "period": "下午",
+          "place": "原宿、表參道",
+          "note": "逛街。"
+        },
+        {
+          "period": "晚上",
+          "place": "澀谷",
+          "note": "逛街、吃晚餐。"
+        }
+      ]
+    },
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "新宿御苑",
+          "note": "逛庭園。"
+        },
+        {
+          "period": "下午",
+          "place": "新宿",
+          "note": "逛百貨公司與商圈。"
+        },
+        {
+          "period": "晚上",
+          "place": "新宿",
+          "note": "吃晚餐。"
+        }
+      ]
+    },
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "築地場外市場",
+          "note": "逛市場、吃東西。"
+        },
+        {
+          "period": "下午",
+          "place": "銀座",
+          "note": "逛街。"
+        },
+        {
+          "period": "晚上",
+          "place": "東京車站、丸之內",
+          "note": "看車站建築、吃晚餐。"
+        }
+      ]
+    },
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "日本科學未來館",
+          "note": "參觀科技相關展示。"
+        },
+        {
+          "period": "下午",
+          "place": "台場海濱公園",
+          "note": "沿海邊散步。"
+        },
+        {
+          "period": "晚上",
+          "place": "台場",
+          "note": "吃晚餐、看夜景。"
+        }
+      ]
+    },
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "谷中銀座",
+          "note": "逛商店街。"
+        },
+        {
+          "period": "下午",
+          "place": "池袋",
+          "note": "逛街、購物。"
+        },
+        {
+          "period": "晚上",
+          "place": "池袋",
+          "note": "吃晚餐。"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "GO TOKYO｜景點介紹",
+      "url": "https://www.gotokyo.org/tc/see-and-do/attractions/index.html"
+    },
+    {
+      "name": "GO TOKYO｜旅程規劃",
+      "url": "https://www.gotokyo.org/tc/story/walks-and-tours/tokyo-itinerary/index.html"
+    }
+  ]
+}

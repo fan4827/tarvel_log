@@ -1,0 +1,114 @@
+{
+  "slug": "nagoya-5-days",
+  "title": "名古屋5日遊",
+  "city": "名古屋",
+  "country": "日本",
+  "isExample": true,
+  "days": [
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "名古屋車站周邊",
+          "note": "逛車站商場與周邊街區。"
+        },
+        {
+          "period": "下午",
+          "place": "四間道老街",
+          "note": "逛老街，看看傳統建築。"
+        },
+        {
+          "period": "晚上",
+          "place": "名古屋車站周邊",
+          "note": "吃晚餐、逛街。"
+        }
+      ]
+    },
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "名古屋城、本丸御殿",
+          "note": "參觀城區與本丸御殿。"
+        },
+        {
+          "period": "下午",
+          "place": "德川園",
+          "note": "逛日式庭園。"
+        },
+        {
+          "period": "晚上",
+          "place": "榮商圈",
+          "note": "逛街、吃晚餐。"
+        }
+      ]
+    },
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "熱田神宮",
+          "note": "參觀神宮。"
+        },
+        {
+          "period": "下午",
+          "place": "大須觀音、大須商店街",
+          "note": "參拜後逛商店街。"
+        },
+        {
+          "period": "晚上",
+          "place": "大須周邊",
+          "note": "吃晚餐。"
+        }
+      ]
+    },
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "豐田產業技術紀念館",
+          "note": "參觀紡織與汽車相關展示。"
+        },
+        {
+          "period": "下午",
+          "place": "名古屋市科學館",
+          "note": "參觀科學展示。"
+        },
+        {
+          "period": "晚上",
+          "place": "榮商圈",
+          "note": "吃晚餐、逛街。"
+        }
+      ]
+    },
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "德川美術館",
+          "note": "參觀館藏與展覽。"
+        },
+        {
+          "period": "下午",
+          "place": "名古屋車站周邊",
+          "note": "購物、買伴手禮。"
+        },
+        {
+          "period": "晚上",
+          "place": "名古屋車站周邊",
+          "note": "吃晚餐。"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Visit Nagoya｜景點介紹",
+      "url": "https://www.nagoya-info.jp/zhtw/feature/detail/104/"
+    },
+    {
+      "name": "Visit Nagoya｜官方網站",
+      "url": "https://www.nagoya-info.jp/zhtw/"
+    }
+  ]
+}

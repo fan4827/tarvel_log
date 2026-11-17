@@ -1,0 +1,72 @@
+{
+  "slug": "osaka-3-days",
+  "title": "大阪3日遊",
+  "city": "大阪",
+  "country": "日本",
+  "isExample": true,
+  "days": [
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "填入真實地點",
+          "note": "簡短說明要做什麼。"
+        },
+        {
+          "period": "下午",
+          "place": "填入真實地點",
+          "note": "簡短說明要做什麼。"
+        },
+        {
+          "period": "晚上",
+          "place": "填入真實地點",
+          "note": "簡短說明要做什麼。"
+        }
+      ]
+    },
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "填入真實地點",
+          "note": "簡短說明要做什麼。"
+        },
+        {
+          "period": "下午",
+          "place": "填入真實地點",
+          "note": "簡短說明要做什麼。"
+        },
+        {
+          "period": "晚上",
+          "place": "填入真實地點",
+          "note": "簡短說明要做什麼。"
+        }
+      ]
+    },
+    {
+      "entries": [
+        {
+          "period": "上午",
+          "place": "填入真實地點",
+          "note": "簡短說明要做什麼。"
+        },
+        {
+          "period": "下午",
+          "place": "填入真實地點",
+          "note": "簡短說明要做什麼。"
+        },
+        {
+          "period": "晚上",
+          "place": "填入真實地點",
+          "note": "簡短說明要做什麼。"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "景點官方網站",
+      "url": "https://osaka-info.jp/"
+    }
+  ]
+}
